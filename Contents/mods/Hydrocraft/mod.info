@@ -1,6 +1,6 @@
-name=Hydrocraft Build 41 Continued
+name=Hydrocraft Build 41 EZRP
 poster=poster.png
-id=Hydrocraft
-description=Adds a ton of items and recipes.
+id=HydrocraftEZRP
+description=Hydrocraft Build 41 fork for EZRP
 tiledef=hcBuilding 591
 pack=hcBuilding
